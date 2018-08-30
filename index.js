@@ -15,6 +15,7 @@ var t = require('./lib/assert');
 t.Any = require('./lib/Any');
 t.Array = require('./lib/Array');
 t.Boolean = require('./lib/Boolean');
+t.Image = require('./lib/Image');
 t.Date = require('./lib/Date');
 t.Error = require('./lib/Error');
 t.Function = require('./lib/Function');
