@@ -18,6 +18,7 @@ t.Boolean = require('./lib/Boolean');
 t.Image = require('./lib/Image');
 t.Date = require('./lib/Date');
 t.Error = require('./lib/Error');
+t.File = require('./lib/File');
 t.Function = require('./lib/Function');
 t.Nil = require('./lib/Nil');
 t.Number = require('./lib/Number');
